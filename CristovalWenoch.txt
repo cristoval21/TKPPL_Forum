@@ -1,3 +1,5 @@
 Cristoval Wenoch (191113461)
 
 Cabang fitur-a di bawah cabang develop.
+
+Cabang release merge ke cabang master.
